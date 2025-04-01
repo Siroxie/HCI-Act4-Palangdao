@@ -1,0 +1,64 @@
+.icons{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fa-joget
+{
+    font-size: 70px;
+    color: rgb(58, 193, 247)
+    
+}
+.fa-registered{
+    font-size: 70px;
+    color: rgb(152, 15, 216);
+}
+.fa-at{
+    font-size: 70px;
+    color: aquamarine;
+}
+.fa-laravel{
+    font-size: 70px;
+    color: rgb(253, 167, 54);
+}
+.fa-dochub{
+    font-size: 70px;
+    color: rgb(255, 103, 48);
+}
+.fa-yahoo{
+    font-size: 70px;
+    color: rgb(197, 32, 202);
+}
+.fa-pinterest{
+    font-size: 70px;
+    color: rgb(255, 17, 17);
+}
+.fa-neos{
+    font-size: 70px;
+    color: rgb(255, 27, 27);
+}
+.fa-google{
+    font-size: 70px;
+    color: rgb(21, 160, 21);
+}
+.fa-opera{
+    font-size: 70px;
+    color: orangered;
+}
+body{
+    background-image:url(images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+header{
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: auto;
+    box-shadow: 10px 10px 100px 10px rgb(0, 0, 0)
+
+}
